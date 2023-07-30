@@ -1,1 +1,1 @@
-console.log(`You can ignore signle and bouble quotes like this: \\\'\\\' \\\" \\\"`);
+console.log(`You can ignore signle and bouble quotes like this: \\\" \\\"`);
